@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  🔭 Actuellement chez Lineage Logistics (Versacold) •
-  🌱 J’apprends le Machine Learning avancé avec Python •
-  👯 Je cherche à collaborer sur des projets Data Science & full‑stack •
+  Actuellement Étudiante en DEP à EMICA •
+  Je cherche à collaborer sur des projets de soutien informatique (niveau DEP) •
   💬 Demandez-moi sur le support client, le dépannage et les reconversions en tech  
 </p>
 
@@ -28,7 +27,7 @@
 ### Représentante Service Client · Lineage Logistics (Versacold) — Montréal, QC  
 _Septembre 2023 – Présent_  
 - Assurer un support client de qualité, suivi des commandes et respect des SLA.  
-- Gérer toutes les interactions client dans Salesforce CRM.  
+- Gérer toutes les interactions client dans CRM Salesforce .  
 - Collaborer avec les équipes logistique et approvisionnement pour résoudre les tickets.
 
 ### Développeuse Front‑End · Langwen — Foshan, Chine  
@@ -47,11 +46,22 @@ _Août 2021 – Janvier 2023_
 ---
 
 ## 📂 Projets
-- **[Votre‑Projet‑ML](https://github.com/Asmaaou/votre-projet-ml)**  
-  Modèle de machine learning en Python pour [décrire son utilité].  
-- **[Votre‑App‑Mobile](https://github.com/Asmaaou/votre-app-mobile)**  
-  Application React Native de gestion d’inventaire avec synchronisation en temps réel.  
-*(Ajoutez ici vos autres dépôts !)*
+
+- **Application mobile d’événements** (React Native, Firebase, Node.js)  
+  _Nov. 2018 – Mai 2019 • Université Mohammed V – ENS_  
+  • Création d’une app mobile pour consulter, s’inscrire et recevoir des notifications d’événements  
+  • Authentification, stockage en temps réel et synchronisation via Firebase
+
+- **Site de covoiturage pour le Maroc** (HTML, CSS, JavaScript, PHP, MySQL)  
+  _Fév. 2018 – Mai 2018 • Université Ibn Zohr_  
+  • Plateforme web pour consulter voyages, itinéraires et tarifs  
+  • Gestion des annonces de trajets et recherche dynamique  
+
+- **Application Gestion de Stock sur Access** (VBA, SQL)  
+  _Juil. 2017 – August 2027 • Université Ibn Zohr_  
+  • Gestion des matières premières à l’usine IGADOR (entrées/sorties, inventaire par article)  
+  • Facilitation des opérations de stock et calculs précis  
+  • Compétence : Analyse des données
 
 ---
 
@@ -61,7 +71,3 @@ _Août 2021 – Janvier 2023_
 - 📄 [Télécharger mon CV](./resume.pdf)
 
 ---
-
-<p align="center">
-  ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Asmaaou&show_icons=true)
-</p>
