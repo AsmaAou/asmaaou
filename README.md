@@ -68,4 +68,3 @@ _Août 2021 – Janvier 2023_
 ## 📫 Contact
 - 📧 Asmaaouari16@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/asma-aouari/)  
-- 📄 [Télécharger mon CV](./resume.pdf)
