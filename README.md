@@ -1,5 +1,5 @@
 <!-- README.md pour Asmaaou -->
-<h1 align="center">Salut, je suis Asma Aouari 👋</h1>
+<h1 align="center">Salut, je suis Asma Aouari </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/asma-aouari/">🔗 LinkedIn</a> •
   <a href="mailto:Asmaaouari16@gmail.com">✉️ Email</a> •
