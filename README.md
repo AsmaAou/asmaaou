@@ -26,17 +26,12 @@
 ## 💼 Expérience
 ### Représentante Service Client · Lineage Logistics (Versacold) — Montréal, QC  
 _Septembre 2023 – Présent_  
-- Assurer un support client de qualité, suivi des commandes et respect des SLA.  
 - Gérer toutes les interactions client dans CRM Salesforce .  
 - Collaborer avec les équipes logistique et approvisionnement pour résoudre les tickets.
 
-### Développeuse Front‑End · Langwen — Foshan, Chine  
-_Août 2021 – Janvier 2023_  
-- Conception d’une plateforme de gestion de commandes responsive (HTML, CSS, JavaScript).  
-- Intégration d’APIs RESTful en collaboration avec l’équipe backend.  
-- Tests multi‑appareils et résolution de bugs critiques avant mise en production.
+### Stage Développeuse Front and Back-End ·  Préfecture dAgadir - Agadir, Maroc 
+_Mai 2017 - Juin 2017_
 
----
 
 ## 📚 Formation
 - **DEP en Soutien Informatique** — École des métiers de l'informatique, du commerce & administration, Montréal (2023–2025)  
